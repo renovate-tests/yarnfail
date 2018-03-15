@@ -1,0 +1,8 @@
+{
+  "name": "yarnfail",
+  "version": "0.0.1",
+  "dependencies": {
+    "popper.js": "1.14.1"
+  },
+  "renovate": {}
+}
