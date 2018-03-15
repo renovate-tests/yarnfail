@@ -2,7 +2,7 @@
   "name": "yarnfail",
   "version": "0.0.1",
   "dependencies": {
-    "popper.js": "1.14.0"
+    "popper.js": "1.14.2"
   },
   "renovate": {
     "prCreation": "not-pending"
